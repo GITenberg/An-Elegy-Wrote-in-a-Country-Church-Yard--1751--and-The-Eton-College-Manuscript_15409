@@ -1,0 +1,28 @@
+_repo: An-Elegy-Wrote-in-a-Country-Church-Yard--1751--and-The-Eton-College-Manuscript_15409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gray, Thomas
+    birthdate: 1716
+    deathdate: 1771
+    gutenberg_agent_id: '4626'
+    url: http://www.gutenberg.org/2009/agents/4626
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Gray
+description: ''
+gutenberg_issued: '2005-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15409'
+  lccn: '52002949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: An Elegy Wrote in a Country Church Yard (1751) and The Eton College Manuscript
+url: http://www.gutenberg.org/ebooks/15409
